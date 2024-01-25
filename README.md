@@ -1,6 +1,5 @@
 # Mini-Steam-Launcher
 Rainmeter skin showing the top 3 most recently played games by user.
-![Screenshot of the skin in use.](/Mini-Steam-Launcher_Example.png or see the different sizes from large to small sizes_example.jpg)
 
 ![sizes_example](https://github.com/Azland/Mini-Steam-Launcher/assets/55637202/6bd9c295-98f0-4392-8dfc-7038276ebb22)
 
