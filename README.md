@@ -2,6 +2,8 @@
 Rainmeter skin showing the top 3 most recently played games by user.
 ![Screenshot of the skin in use.](/Mini-Steam-Launcher_Example.png or see the different sizes from large to small sizes_example.jpg)
 
+![Screenshot of the skin in use.](/size_example.jpg)
+
 How to install:
 
 1. Download the latest release (.zip): https://github.com/captainsubtext/Mini-Steam-Launcher_2024
